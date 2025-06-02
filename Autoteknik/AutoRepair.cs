@@ -33,7 +33,7 @@ namespace Autoteknik
 
         public override string ToString()
         {
-            return $"Reperations ID: {Id}\nHvad der skal fixes: {Description}\nPris: {Price} kr.\nLaves af: {Mechanic}";
+            return $"Reperations ID: {Id}\nHvad der skal fixes: {Description}\nPris: {Price} kr.\nLaves af: {Mechanic}\n";
         }
     }
 }
